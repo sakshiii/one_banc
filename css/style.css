@@ -1,0 +1,141 @@
+
+
+  body
+{
+ background-image:linear-gradient(90deg, #29749F 50%, #ffffff 50%); 
+  font-size:10px;
+}
+
+.nip {
+  display:inline-block;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.wrap {
+    width: 100%;
+}
+
+.floatleft {
+    float:left; 
+    width: 50%;
+    display: block;
+
+}
+
+.floatright {
+    float: right;
+    width: 50%;
+}
+.rotation
+{
+  color: #ffff; 
+  font-weight: 400; ; 
+  font-size: 30px
+}
+
+.rotateHead
+{
+   color: #ffff; 
+   font-weight: 400; 
+   font-size: 30px; 
+   margin-left: 35px;
+   margin-top: 20px;
+            
+}
+#head_center{
+    text-align: center;
+    display: block;
+    color: #ffffff;
+}
+
+.logo{
+    display: block;
+    height: 55% ;
+    width: 45%;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+  
+input {
+    font-size: 1em;
+    position: relative;
+}
+
+#Indicator
+{
+  height: 20px;
+  width: 20px;
+  margin-left: 0px;
+  position: absolute;
+  padding-bottom: 4px !important;
+}
+
+.cloudimg
+{
+  float: right;
+  margin-top: 0px;
+}
+.backgd_semi_cloud{
+  height: 600px;
+  margin-top: 0px;
+}
+
+table{
+  border-collapse:separate;
+}
+
+.example_man 
+{
+margin-top: 150px;
+width:60% ;
+margin-left: 20px;
+
+height: 340px !important;
+
+}
+.main_man{
+  margin-top: 150px;
+  width:60% ;
+  margin-left: 25px;
+  height: 340px !important;
+  
+}
+/*
+.leftpane{
+    width: 25%;
+    min-width: 350px;
+    height: available;
+    min-height: 400px;
+    float: left;
+    background-color: rosybrown;
+    border-collapse: collapse;
+}
+
+.middlepane{
+   width: 50%;
+   min-width: 800px;
+   height: available;
+   min-height: 650px;
+   float: left;
+   background-color: royalblue;
+   border-collapse: collapse;
+}
+
+.rightpane{
+    width: available;
+    height: available;
+    position: relative;
+    margin-left: 75%;
+    background-color: yellow;
+    border-collapse: collapse;
+}
+
+*/
+.rightContainer
+{
+  font-size: 6px;
+  position: absolute;
+  display: inline-block;
+  color: black;
+}
+
